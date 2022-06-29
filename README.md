@@ -1,3 +1,6 @@
+# Simple React Notes App
+#### Greetings to [Lervana](https://github.com/Lervana) :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
